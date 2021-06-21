@@ -1,0 +1,17 @@
+{
+    "name": "codiant/todolist",
+    "description": "You can create the to-do-list of your task.",
+    "authors": [
+        {
+            "name": "Swapnil khare",
+            "email": "swapnilk@neuronsolutions.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Codiant\\Todolist\\": "src/"
+        }
+    },
+    "require": {}
+}
