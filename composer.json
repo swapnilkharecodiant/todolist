@@ -1,6 +1,8 @@
 {
     "name": "swapnilkharecodiant/todolist",
     "description": "You can create the to-do-list of your task.",
+    "keywords": ["todo","todolist"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Swapnil khare",
@@ -8,12 +10,14 @@
         }
     ],
     "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3|^8.0"
+    },
     "autoload": {
         "psr-4": {
             "Codiant\\Todolist\\": "src/"
         }
     },
-    "require": {},
     "extra": {
         "laravel": {
             "providers": [
