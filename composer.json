@@ -13,7 +13,12 @@
             "Codiant\\Todolist\\": "src/"
         }
     },
-    "require": {
-        "php": "^7.0||~8.0.0"
-    }
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codiant\\Todolist\\Providers\\TodolistServiceProvider"
+            ]
+        }
+    },
 }
