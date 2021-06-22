@@ -7,7 +7,7 @@ Laravel ToDoList is an activity event ToDoList for your Laravel application. It 
 |Daily to do list|
 
 ### Requirements
-* [Laravel 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, and 7+](https://laravel.com/docs/installation)
+* [Laravel 8.0 or 8+](https://laravel.com/docs/installation)
 
 ### Laravel Installation Instructions
 1. From your projects root folder in terminal run:
