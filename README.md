@@ -80,4 +80,4 @@ Register the package with laravel in `config/app.php` under `providers` with the
     │       └── list.blade.php
 
 ### License
-To Do List is licensed under the TEST license. Enjoy!
+To Do List is licensed under the MIT license. Enjoy!
