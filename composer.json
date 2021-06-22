@@ -20,5 +20,5 @@
                 "Codiant\\Todolist\\Providers\\TodolistServiceProvider"
             ]
         }
-    },
+    }
 }
