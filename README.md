@@ -1,4 +1,7 @@
 # Laravel To Do List
+* [LLaravel-TodoList on Packagist](https://packagist.org/packages/swapnilkharecodiant/todolist)
+* [Laravel-TodoList on GitHub](https://github.com/swapnilkharecodiant/todolist)
+
 A laravel package that manages your todolist. This package is easily configurable and customizable. Supports Laravel 8.0 and 8+
 
 ### Features
