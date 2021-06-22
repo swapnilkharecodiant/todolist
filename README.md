@@ -50,7 +50,7 @@ Register the package with laravel in `config/app.php` under `providers` with the
 ### Routes
 ##### ToDoList Routes
 
-* ```/task/create```
+* ```/task-create```
 * ```/task-store```
 * ```/task/{id}/edit```
 * ```/task-update```
