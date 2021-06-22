@@ -1,12 +1,6 @@
 # Laravel To Do List
 Laravel ToDoList is an activity event ToDoList for your Laravel application. It comes out the box with ready to use with dashboard to view your activity. Laravel ToDoList can be added as a middleware or called through a trait. Easily have an Activity Log. This package is easily configurable and customizable. Supports Laravel 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, and 7+
 
-<a href="https://styleci.io/repos/109630720">
-    <img src="https://styleci.io/repos/109630720/shield?branch=master" alt="StyleCI" style="border-radius: 3px;">
-</a>
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jeremykenedy/laravel-logger/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jeremykenedy/laravel-logger/?branch=master)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ### Features
 | Laravel Activity Logger Features  |
 | :------------ |
