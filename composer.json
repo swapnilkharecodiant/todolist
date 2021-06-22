@@ -13,5 +13,7 @@
             "Codiant\\Todolist\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": "^7.0||~8.0.0"
+    }
 }
