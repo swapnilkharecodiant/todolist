@@ -38,9 +38,7 @@ Register the package with laravel in `config/app.php` under `providers` with the
 
 * Note: If you want to specify a different table or connection make sure you update your `.env` file with the needed configuration variables.
 
-4. Optionally Update your `.env` file and associated settings (see [Environment File](#environment-file) section)
-
-5. Optionally publish the packages views, config file, assets, and language files by running the following from your projects root folder:
+4. Optionally publish the packages views, config file, assets, and language files by running the following from your projects root folder:
 
 ```bash
     php artisan vendor:publish --tag=codiant\todolist\TodolistServiceProvider 
